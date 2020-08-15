@@ -1,0 +1,28 @@
+body{
+    display: block;
+}
+.logo{
+    height: 130px;
+    width: 130px;
+    top: 10px;
+}
+
+main{
+    width: 700px;
+    margin: auto;
+}
+
+button{
+    display: inline-block;
+    position: relative;
+    border-radius: 30px;
+    left: 200px;
+    bottom: 100px;
+    background-color: white;
+    width: 210px;
+    text-align: center;
+}
+
+.play-market-logo{
+    
+}
